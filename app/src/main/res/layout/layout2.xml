@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:padding="10dp">
+           <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chúng ta không thuộc về nhau "
+            android:textStyle="bold"
+            android:textColor="#ff002b"
+            android:textSize="18sp"/>
+       </RelativeLayout>
+        <Button
+            android:id="@+id/btn1"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Em gái mưa  "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn2"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yêu 5 "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn3"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lạc trôi "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn4"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Đường đến vinh quang "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn5"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Giấc mơ thần tiên "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn6"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bống bống bang bang "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn7"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yêu là tha thu "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn8"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Điều anh biết "
+                android:textStyle="bold"
+                android:textColor="#ff002b"
+                android:textSize="18sp"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/btn9"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="download"/>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+    <Button
+        android:id="@+id/btn10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        />
+    <Button
+        android:id="@+id/btn11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next"
+        />
+</LinearLayout>
+
+   </LinearLayout>
